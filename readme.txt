@@ -10,7 +10,7 @@ Cuando hacés tu primer git push origin main, se abre una ventanita de GitHub �
 🔒 Git Credential Manager guarda la sesión en tu PC, no tenés que volver a loguearte.
 
 Después ya es:
-
+git init
 git add .
 
 git commit -m "mensaje"
